@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "WatchShows",
+  "creator": "commanderdot",
+  "filler_item_name": "Commercials",
+  "starting_items": [
+    {
+      "items": [
+        "Unlock Episode"
+      ],
+      "random": 1
+    },
+    {
+      "items": [
+        "Bookmark"
+      ],
+      "random": 1
+    }
+  ],
+  "death_link": true
+}

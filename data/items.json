@@ -1,0 +1,17 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Unlock Episode",
+            "progression": true,
+            "category": ["You can watch up to episode:"],
+            "count": 999
+        },
+        {
+            "name": "Bookmark",
+            "progression": true,
+            "category": ["You have already watched up to episode:"],
+            "count": 999
+        }
+    ]
+}
